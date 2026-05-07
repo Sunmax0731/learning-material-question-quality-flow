@@ -1,0 +1,52 @@
+{
+  "rank": 88,
+  "domain": "EducationLearning",
+  "ideaNo": 2,
+  "ideaName": "教材取り込み・問題化・品質チェックフロー",
+  "repository": "learning-material-question-quality-flow",
+  "publish": "GitHub Pages / GitHub Release",
+  "createdIdeaLookup": {
+    "exactPathFirst": "D:/AI/EducationLearning/created_idea_002_learning-material-question-quality-flow",
+    "exactPathExists": true,
+    "fallbackSearched": false,
+    "fallbackResults": [],
+    "notes": "完全一致の created_idea と ZIP を使用した。"
+  },
+  "zipLookup": {
+    "exactZip": "D:/AI/EducationLearning/created_idea_002_learning-material-question-quality-flow/idea_002_learning-material-question-quality-flow.zip",
+    "exactZipExists": true,
+    "requiredFiles": [
+      "metadata.json",
+      "README.md",
+      "01_REQUIREMENTS.md",
+      "02_SPECIFICATION.md",
+      "03_DESIGN.md",
+      "04_IMPLEMENTATION_PLAN.md",
+      "05_TEST_PLAN.md",
+      "06_RELEASE_CHECKLIST.md"
+    ],
+    "missingRequiredFiles": []
+  },
+  "zipMetadata": {
+    "domain": "EducationLearning",
+    "no": 2,
+    "platform": "EducationLearning",
+    "field": "教材生成・品質管理",
+    "idea": "教材取り込み・問題化・品質チェックフロー",
+    "overview": "教材取り込み、タグ検索、問題化、暗記カード生成、テンプレ管理、教材品質チェック、ノードフローを一連化する。",
+    "problem": "教材を作る、品質を確認する、復習に回す工程が分かれると継続しづらい。",
+    "similar": "Anki, Quizlet, Notion, Google Classroom, RemNote",
+    "diff": "読む、問題化、品質確認、復習化を小さな再実行可能フローとして保存する。",
+    "repositoryName": "learning-material-question-quality-flow",
+    "repositoryTitle": "learning-material-question-quality-flow",
+    "zipFile": "idea_002_learning-material-question-quality-flow.zip"
+  },
+  "metadataRepositoryMatches": true,
+  "metadataZipMatches": true,
+  "initialRepositoryReadme": {
+    "existedBeforeCreation": false,
+    "note": "正式 repo が存在しなかったため README.md は存在しないと記録し、domain docs と created_idea ZIP を根拠に作成した。"
+  },
+  "mojibakePolicy": "ZIP本文や既存Markdownは丸写しせず、PICKUP行、metadata、domain docsから正式docsを再構成する。",
+  "unstableEvidencePolicy": "ZIPサイズ、生成時刻、絶対一時パスはQCDS固定根拠に使わない。"
+}

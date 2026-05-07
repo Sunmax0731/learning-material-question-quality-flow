@@ -1,0 +1,22 @@
+{
+  "product": {
+    "repository": "learning-material-question-quality-flow",
+    "title": "教材取り込み・問題化・品質チェックフロー"
+  },
+  "items": [
+    {
+      "id": "learning-material-question-quality-flow-happy",
+      "title": "教材取り込み・問題化・品質チェックフロー happy",
+      "status": "ready",
+      "tags": [
+        "educationlearning",
+        "closed-alpha"
+      ],
+      "materialSource": "samples/material.md",
+      "questionType": "短答式",
+      "qualityRule": "根拠と解説を分離",
+      "reviewOwner": "closed-alpha",
+      "answerRationale": "本文該当箇所を引用"
+    }
+  ]
+}
