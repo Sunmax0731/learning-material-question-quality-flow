@@ -1,0 +1,13 @@
+{
+  "product": "learning-material-question-quality-flow",
+  "title": "教材取り込み・問題化・品質チェックフロー",
+  "domain": "EducationLearning",
+  "ideaNo": 2,
+  "platformType": "browser-web",
+  "expectedPublicTarget": "GitHub Pages / GitHub Release",
+  "browser": {
+    "evidence": "dist/web-smoke-result.json"
+  },
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
